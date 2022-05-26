@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["infer_schema",""],["rows_to_schema","Infer schema from rows."]],"struct":[["Row",""]]});
